@@ -1,0 +1,73 @@
+#basliq{
+    background: #1aada3;
+    height: 50px;
+    .menu{
+        justify-content: start;
+        margin-top: -5px;
+      li{
+          margin: 10px;
+        
+      }
+
+    }
+    .menu2{
+        justify-content: flex-end;
+        margin-top: -5px;
+
+        li{
+          margin: 10px;
+
+        }
+
+    }
+}
+
+#dcc{
+  margin-top: 5vh;
+  .logo{
+margin-left: 25vh;
+  }
+  .mw{
+    margin-top: 3vh;
+ 
+  
+  }
+ .cc0{
+  
+
+img{
+  width: 20vh;
+  height: 15vh;
+  margin: 13px;
+}
+
+   }
+
+  
+
+
+ }
+
+
+
+#dd{
+  width: 40vh;
+  height: 40vh;
+  border: 1px solid #110c0c;
+  position: fixed;
+  bottom: 40vh;
+  right: 30vh;
+  i{
+    margin-left: 37vh;
+    font-size: 30px;
+  }
+  input{
+    margin-left: 10vh;
+    margin-top: 1vh;
+  }
+  p{
+    margin-left: 10vh;
+    margin-top: 3vh;
+  }
+  
+}
